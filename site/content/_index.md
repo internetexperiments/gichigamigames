@@ -1,10 +1,10 @@
 ---
 title: Test
 subtitle: Test
-image: /img/home-jumbotron.jpg
+image: /img/ptwgjm.jpg
 blurb:
   heading: Test
-  text: Test
+  text: TestTestTestTestTestTestTestTestTestTestTest
 intro:
   heading: Test
   text: >-
